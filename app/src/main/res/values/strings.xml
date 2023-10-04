@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ejercicio1.1</string>
+    <string name="TEXT">INGRESE EL PRIMER NUMERO: </string>
+    <string name="TEXT2">INGRESE EL SEGUNDO NUMERO: </string>
+    <string name="BTNSUMA">SUMA</string>
+    <string name="BTNRESTA">RESTA</string>
+    <string name="BTNMULTIPLICACION">MULTIPLICACIÓN</string>
+    <string name="BTNDIVISION">DIVISIÓN</string>
+
+</resources>
